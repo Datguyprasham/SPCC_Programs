@@ -1,0 +1,11 @@
+### C file ###
+gcc fileName.cpp  ---> ./a.out
+
+gcc -o execFileName filename.c  --->  ./execFileName.exe
+
+
+
+### C++ file ###
+g++ fileName.cpp  ---> ./a.out
+
+g++ -o execFileName filename.c  --->  ./execFileName.exe
